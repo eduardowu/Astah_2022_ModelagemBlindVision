@@ -2,6 +2,7 @@
 Diagrama desenvolvido com a ferramenta Astah UML. Unicesumar - 2022/01
 ---
 
+
 ## Exercício proposto:
 [...]
 SILVA, V. C. da et al. Visão Cega. Ciências Exatas e da Terra e a Dimensão Adquirida através da Evolução Tecnológica 3 - Capítulo 9. Ponta Grossa, PR: Atena Editora, 2019. Acesso em 07 de fev. De 2022 Disponível em < https://www.atenaeditora.com.br/wp-content/uploads/2019/07/E-BOOK-Ciencias-Exatas-e-da-Terra-3-1.pdf>
